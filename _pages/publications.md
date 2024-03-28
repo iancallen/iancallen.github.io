@@ -12,7 +12,9 @@ author_profile: true
 # Working Papers
 
 **Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance** 
-Callen, I. & Stoddard, C. "Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance". 
+
+Callen, I. & Stoddard, C. "Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance". 2024. 
 
 *Revise and resubmit at Economics of Education Review*
-Most recent draft:
+
+Most recent draft: [3-27-2024](/files/CallenStoddard2024.pdf)
