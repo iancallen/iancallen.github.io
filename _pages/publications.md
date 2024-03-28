@@ -9,8 +9,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+# Working Papers
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance** 
+Callen, I. & Stoddard, C. "Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance". 
+
+*Revise and resubmit at Economics of Education Review*
+Most recent draft: 
