@@ -15,4 +15,4 @@ author_profile: true
 Callen, I. & Stoddard, C. "Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance". 
 
 *Revise and resubmit at Economics of Education Review*
-Most recent draft: [3-27-2024](/files/CallenStoddard2024.pdf)
+Most recent draft:
