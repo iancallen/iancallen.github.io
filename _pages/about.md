@@ -9,5 +9,8 @@ redirect_from:
 
 Hello! Welcome to my website.
 
-I'm a research associate at the Center for Analysis of Longitudinal Data in Education Research [(CALDER)](https://caldercenter.org/) and an instructor of economics in the Department of Agricultural Economics and Economics at [Montana State University](https://www.montana.edu/econ/). I hold a M.S. in Applied Economics from Montana State University, a B.A. in Economics, and a B.S. in Statistics, both from Western Washington University. 
+I'm a research associate at the Center for Analysis of Longitudinal Data in Education Research [(CALDER)](https://caldercenter.org/) and an instructor of economics in the Department of Agricultural Economics and Economics at [Montana State University](https://www.montana.edu/econ/). I hold a M.S. in Applied Economics from [Montana State University](https://www.montana.edu/), a B.A. in Economics, and a B.S. in Statistics, both from [Western Washington University](https://www.wwu.edu/). 
 
+My research interests are in the economics of education and education policy, and how educational opportunities, resources, and policies shape educational and economic inequality. My recent work has looked at the role of access within the Advanced Placement program and the impacts of the COVID-19 pandemic on student achievement. 
+
+Email: [icallen\@air.org](mailto:icallen@air.org)
