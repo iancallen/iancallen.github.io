@@ -20,7 +20,7 @@ with Christiana Stoddard.
 
 Most recent draft: [March 2024](/files/CallenStoddard2024.pdf)
 
-** Summer School as Learning Loss Recovery Strategy After COVID-19: Evidence from Summer 2022**
+**Summer School as Learning Loss Recovery Strategy After COVID-19: Evidence from Summer 2022**
 
 with Maria V. Carbonari, Michael DeArmond, Daniel Dewey, Elise Dizon-Ross,
 Dan Goldhaber, Jazmin Isaacs, Thomas J. Kane, Megan Kuhfeld, Anna McDon-
@@ -37,7 +37,7 @@ with Dan Goldhaber, Thomas J. Kane, Anna McDonald, Andrew McEachin, and Emily Mo
 Most recent draft: [February 2024](https://caldercenter.org/publications/pandemic-learning-loss-student-baseline-achievement-extent-and-sources-heterogeneity)
 
 
-* Works in Progress
+# Works in Progress
 
 **A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic**
 
