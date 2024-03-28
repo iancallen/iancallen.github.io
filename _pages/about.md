@@ -13,4 +13,4 @@ I'm a research associate at the Center for Analysis of Longitudinal Data in Educ
 
 My [research](/research/) interests are in the economics of education and education policy, and how educational opportunities, resources, and policies shape educational and economic inequality. My recent work has looked at the role of access within the Advanced Placement program and the impacts of the COVID-19 pandemic on student achievement. 
 
-Email: [icallen\@air.org](mailto:icallen@air.org)
+Email: [icallen@air.org](mailto:icallen@air.org)

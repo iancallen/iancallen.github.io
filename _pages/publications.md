@@ -16,7 +16,7 @@ author_profile: true
 
 with Christiana Stoddard. 
 
-*Revise and resubmit at conomics of Education Review*
+*Revise and resubmit at Economics of Education Review*
 
 Most recent draft: [March 2024](/files/CallenStoddard2024.pdf)
 
