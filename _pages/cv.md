@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download my C.V. [here](/files/CallenIanCV_4.17.24.pdf).
+Download my C.V. [here](/files/CallenIanCV_8.15.24.pdf).
 
-*Last updated on 4/17/2024.* 
+*Last updated on 8/15/2024.* 
