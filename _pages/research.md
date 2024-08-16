@@ -9,8 +9,18 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## Publications
 
-# Working Papers
+**Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance**
+
+Callen, I. & Stoddard. C. (2024). Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance. *Economics of Education Review, 102*. 
+[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/CallenStoddard2024.pdf) 
+
+**Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement**
+
+Callen, I., Goldhaber, D., & Morton., E. (forthcoming). Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement. in *Handbook of Inequality and COVID-19*. Edward Elgar. 
+
+## Working Papers
 
 **Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance** 
 
@@ -18,7 +28,7 @@ with Christiana Stoddard.
 
 *Revise and resubmit at Economics of Education Review*.
 
-Most recent draft: [March 2024](/files/CallenStoddard2024.pdf)
+Most recent draft: [March 2024](/files/CallenStoddard2024.pdf) <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
 
 **Summer School as Learning Loss Recovery Strategy After COVID-19: Evidence from Summer 2022**
 
