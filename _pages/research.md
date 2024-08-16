@@ -11,51 +11,33 @@ author_profile: true
 
 ## Publications
 
-**Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance**
+**Callen, I.** & Stoddard. C. (2024). Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance. *Economics of Education Review, 102*. 
 
-Callen, I. & Stoddard. C. (2024). Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance. *Economics of Education Review, 102*. 
-[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/CallenStoddard2024.pdf) 
+[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/CallenStoddard2024.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1821177796367896580)
 
-**Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement**
-
-Callen, I., Goldhaber, D., & Morton., E. (forthcoming). Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement. in *Handbook of Inequality and COVID-19*. Edward Elgar. 
+**Callen, I.**, Goldhaber, D., & Morton., E. (forthcoming). Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement. in *Handbook of Inequality and COVID-19*. Edward Elgar. 
 
 ## Working Papers
 
-**Putting the “A” in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance** 
+**Callen, I.**, Carbonari, M. V., DeArmond, M., Dewey, D., Dizon-Ross, E., Goldhaber, D., Isaacs, J., Kane, T. J., Kuhfeld, M., McDonald, A., McEachin, A., Morton, E., Muroga, A., & Staiger, D. O. (2023). Summer School as a Learning Loss Recovery Strategy after COVID-19: Evidence from Summer 2022. CALDER Working Paper No. 291-0823. 
 
-with Christiana Stoddard. 
-
-*Revise and resubmit at Economics of Education Review*.
-
-Most recent draft: [March 2024](/files/CallenStoddard2024.pdf) <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
-
-**Summer School as Learning Loss Recovery Strategy After COVID-19: Evidence from Summer 2022**
-
-with Maria V. Carbonari, Michael DeArmond, Daniel Dewey, Elise Dizon-Ross,
-Dan Goldhaber, Jazmin Isaacs, Thomas J. Kane, Megan Kuhfeld, Anna McDon-
-ald, Andrew McEachin, Emily Morton, Atsuko Muroga, and Douglas O. Staiger.
-
-Most recent draft: [August 2023](https://caldercenter.org/sites/default/files/CALDER%20WP%20291-0823.pdf)
+[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://caldercenter.org/publications/summer-school-learning-loss-recovery-strategy-after-covid-19-evidence-summer-2022) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](https://caldercenter.org/sites/default/files/CALDER%20WP%20291-0823.pdf)
 
 *Media mentions: [Future Ed](https://www.future-ed.org/research-news-summer-learnings-impact-on-academic-recovery/), [74m](https://www.the74million.org/article/four-reasons-to-be-hopeful-from-latest-summer-school-study/), [Chalkbeat](https://www.chalkbeat.org/2023/8/15/23833338/pandemic-covid-summer-school-learning-loss-recovery-research/#:~:text=Summer%20school%20might%20be%20more,learning%20opportunities%20over%20multiple%20summers.)*
 
-**Pandemic Learning Loss by Student Baseline Achievement: Extent and Source of Heterogeneity**
+**Callen, I.**, Goldhaber, D., Kane, T. J., McDonald, A., McEachin, A., \& Morton, E. (2024). Pandemic Learning Loss by Student Baseline Achievement: Extent and Sources of Heterogeneity. CALDER Working Paper No. 292-0224.
 
-with Dan Goldhaber, Thomas J. Kane, Anna McDonald, Andrew McEachin, and Emily Morton.
-
-Most recent draft: [February 2024](https://caldercenter.org/publications/pandemic-learning-loss-student-baseline-achievement-extent-and-sources-heterogeneity)
+[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://caldercenter.org/publications/pandemic-learning-loss-student-baseline-achievement-extent-and-sources-heterogeneity) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](https://caldercenter.org/sites/default/files/CALDER%20WP%20292-0224.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1756005148856332302)
 
 
-# Works in Progress
+## Works in Progress
 
-**A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic**
+ - A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic
 
-with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton. 
+*with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
 
-**Access to the Advanced Placement Program and College Enrollment**
+- Access to the Advanced Placement Program and College Enrollment
 
-**Labor Development, Markets, and the Pandemic: Evidence from Major League Baseball**
+*with Christiana Stoddard.*
 
-with Maxwell Ellingsen.
 
