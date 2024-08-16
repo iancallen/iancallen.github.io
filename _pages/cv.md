@@ -13,4 +13,6 @@ redirect_from:
 
 You can also download my C.V. [here](/files/CallenIanCV_8.15.24.pdf).
 
-*Last updated on 8/15/2024.* 
+*Last updated on 8/15/2024.* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+
+
