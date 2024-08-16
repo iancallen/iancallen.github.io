@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Download my C.V. [here](/files/CallenIanCV_8.15.24.pdf).
+<iframe src="/files/pdf/CallenIanCV_8.15.24.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can also download my C.V. [here](/files/CallenIanCV_8.15.24.pdf).
 
 *Last updated on 8/15/2024.* 
