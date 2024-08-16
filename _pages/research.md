@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> Please contact me at icallen@air.org if you would like a free copy of any article. Alternatively, you may read pre-print versions of most of my articles for free using the links below.
 {% endif %}
 
 ## Publications
@@ -36,8 +36,11 @@ author_profile: true
 
 *with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
 
-- Access to the Advanced Placement Program and College Enrollment
+- Advanced Placement Access and College Enrollment: Postsecondary Effects of Advanced Placement State Policies.
 
 *with Christiana Stoddard.*
+
+- Explaining Variation in Academic Recovery.
+*with Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
 
 
