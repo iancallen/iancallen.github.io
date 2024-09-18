@@ -12,7 +12,7 @@ title                    : "Ian Callen"
 title_separator          : "-"
 name                     : &name "Ian Callen"
 description              : &description "personal description"
-url                      : https://iancallen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://iancallen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iancallen/iancallen.github.io"
 
@@ -25,8 +25,8 @@ author:
   name             : "Ian Callen"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Denver, Colorado"
-  employer         : "American Institutes for Research"
+  location         : "Charlottesville, Virginia"
+  employer         : "University of Virginia"
   uri              : # URL
   email            : "icallen@air.org" 
 
