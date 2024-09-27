@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> Please contact me at [icallen@air.org](mailto:icallen@air.org) if you would like a free copy of any article. Alternatively, you may read pre-print versions of most of my articles for free using the links below.
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> Please contact me at [kcm2nb@virginia.edu](mailto:kcm2nb@virginia.edu) if you would like a free copy of any article. Alternatively, you may read pre-print versions of most of my articles for free using the links below.
 {% endif %}
 
 ## Publications
