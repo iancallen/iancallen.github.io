@@ -16,10 +16,10 @@ author_profile: true
 [<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/CallenStoddard2024.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1821177796367896580)
 
 <details>
-  <summary> Click to expand </summary>
+  <summary> Summary </summary>
 
-  Logn content here
-  and here
+  Abstract: Advanced courses prepare high school students for college material and the associated exams provide a low cost way to earn college credit. The College Board’s Advanced Placement (AP) program is the most common in the United States, with about 40 percent of graduating seniors taking at least one AP exam in recent years. However, these opportunities are not equal across high school students due to variation in school offerings and potentially limiting exam fees. We examine the effects of two state-level policies designed to provide greater access to this program: the first mandates a minimum number of AP courses to be offered in each high school and the second waives exam fees for all students for at least one exam. Our event study and two-way fixed effect estimates suggest that that mandating the provision of AP courses raises the percent of high school graduates taking AP exams by 4 to 5 percentage points, while exam fee waivers increase participation by about 1.5 percentage points. At the same time, pass rates fell after implementation of the two policies, indicating that marginal exam takers are less proficient on the exams. We find both policies have minimal effects on the percent of graduates who passed at least one AP exam or on the number of passing exams per high school student.
+  
 </details>
 
 **Callen, I.**, Goldhaber, D., & Morton., E. (forthcoming). Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement. in *Handbook of Inequality and COVID-19*. Edward Elgar. 
