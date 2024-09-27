@@ -21,7 +21,7 @@ repository               : "iancallen/iancallen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot (v.9.18.4).jpg"
+  avatar           : "/files/headshot (v.9.18.4).jpg"
   name             : "Ian Callen"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
