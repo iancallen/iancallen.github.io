@@ -21,14 +21,14 @@ repository               : "iancallen/iancallen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/headshot (v.9.18.4).jpg"
+  avatar           : "headshot (v.9.18.4).png"
   name             : "Ian Callen"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Charlottesville, Virginia"
   employer         : "University of Virginia"
   uri              : # URL
-  email            : "icallen@air.org" 
+  email            : "kcm2nb@virginia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
