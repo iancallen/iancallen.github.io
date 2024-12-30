@@ -34,7 +34,7 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
 
 [<i class="fa-solid fa-link" aria-hidden="true"></i>](https://caldercenter.org/publications/summer-school-learning-loss-recovery-strategy-after-covid-19-evidence-summer-2022) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](https://caldercenter.org/sites/default/files/CALDER%20WP%20291-0823.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/CEDR_US/status/1689282537149825024)
 
-*Media mentions: [Future Ed](https://www.future-ed.org/research-news-summer-learnings-impact-on-academic-recovery/), [74m](https://www.the74million.org/article/four-reasons-to-be-hopeful-from-latest-summer-school-study/), [Chalkbeat](https://www.chalkbeat.org/2023/8/15/23833338/pandemic-covid-summer-school-learning-loss-recovery-research/#:~:text=Summer%20school%20might%20be%20more,learning%20opportunities%20over%20multiple%20summers.)*
+*Media mentions: [Future Ed](https://www.future-ed.org/research-news-summer-learnings-impact-on-academic-recovery/), [74m](https://www.the74million.org/article/four-reasons-to-be-hopeful-from-latest-summer-school-study/), [Chalkbeat](https://www.chalkbeat.org/2023/8/15/23833338/pandemic-covid-summer-school-learning-loss-recovery-research/#:~:text=Summer%20school%20might%20be%20more,learning%20opportunities%20over%20multiple%20summers.), [NPR](https://www.kuow.org/stories/has-summer-school-helped-in-the-fight-against-pandemic-learning-loss)*
 
 <details>
   <summary> Abstract </summary>
