@@ -22,6 +22,8 @@ author_profile: true
   
 </details>
 
+Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddard_data.dta), [CSV](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddard_data.csv)
+
 **Callen, I.**, Goldhaber, D., & Morton., E. (forthcoming). Evidence on the Large Negative and Heterogenous Effects of the Pandemic on Student Achievement. in *Handbook of Inequality and COVID-19*. Edward Elgar. 
 
 ## Working Papers
