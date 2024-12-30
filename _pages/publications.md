@@ -57,16 +57,16 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
 
 ## Works in Progress
 
- - A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic
+ A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic
 
 *with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
 
-- Advanced Placement Access and College Enrollment: Postsecondary Effects of Advanced Placement State Policies.
+Advanced Placement Access and College Enrollment: Postsecondary Effects of Advanced Placement State Policies.
 
 *with Christiana Stoddard.*
 
-- Explaining Variation in Academic Recovery.
+Explaining Variation in Academic Recovery.
 
-*with Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
+*with Grace Falken, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
 
 
