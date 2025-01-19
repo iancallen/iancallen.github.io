@@ -54,6 +54,8 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
   
 </details>
 
+*Media mentions:* [Economic Report of the President](https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf) 
+
 
 ## Works in Progress
 
