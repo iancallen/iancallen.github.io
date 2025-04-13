@@ -24,6 +24,8 @@ author_profile: true
   
 </details>
 
+**Callen, I.**, Goldhaber, D., & Morton, E. (2025). Evidence on the large negative and heterogenous effects of the pandemic on student achievement. *Handbook on Inequality and COVID-19*, 254-277.
+
 **Callen, I.** & Stoddard. C. (2024). Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance. *Economics of Education Review, 102*. 
 
 [<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/CallenStoddard2024.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1821177796367896580) [<i class="fa-solid fa-quote-left" aria-hidden="true"></i>](https://scholar.googleusercontent.com/scholar.bib?q=info:KNrNUB5YJyoJ:scholar.google.com/&output=citation&scisdr=ClH5dvqNEJrU_G-v7p4:AFWwaeYAAAAAZ_up9p6lk_13Q7wfxmbLd34YGtU&scisig=AFWwaeYAAAAAZ_up9ihSNqYmbuDOm4IFEP8y95M&scisf=4&ct=citation&cd=-1&hl=en)
@@ -38,8 +40,6 @@ author_profile: true
 </details>
 
 Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddard_data.dta), [CSV](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddard_data.csv)
-
-**Callen, I.**, Goldhaber, D., & Morton, E. (2025). Evidence on the large negative and heterogenous effects of the pandemic on student achievement. *Handbook on Inequality and COVID-19*, 254-277.
 
 ## Working Papers
 
