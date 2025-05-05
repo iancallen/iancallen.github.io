@@ -17,8 +17,8 @@ Montana State University (economics):
 - ECNS 309 (Managerial Economics): [Fall 2022](/files/Teaching Materials/Syllabus/ECNS 309 -- Fall 22 Syllabus.pdf)
 
 *As teaching assistant*
-- ECNS 101 (Economic Way of Thinking): Fall 2020; Spring 2021; Fall 2021; Spring 2022
-- ECNS 202 (Macroeconomics): Fall 2020; Spring 2021
+- ECNS 101 (Economic Way of Thinking): Fall 2020, Spring 2021, Fall 2021, Spring 2022
+- ECNS 202 (Macroeconomics): Fall 2020, Spring 2021
 
 # Student Feedback 
 
@@ -27,3 +27,5 @@ Montana State University (economics):
 "I wanted to sincerely thank you for your excellent instruction over the last two semesters. Your level of expertise, clarity with which you can explain difficult ideas, & teaching style have all tremendously improved my learning process. Your dedication to your student's academic success, the way you've set up the classes, and the welcoming environment you've created have been invaluable. I appreciate your commitment. Overall a great professor."
 
 "I really enjoyed both the professor and the class. It is abundantly evident that he truly has the student's best interest in mind and cares about their success in his course. He portrayed all the necessary information in a concise manner and made it as easy as it can be for students. Definitely an excellent professor."
+
+"Great professor, this is the first ECON course I have taken where I actually feel engaged and the content feels relevant. Great examples are brought up during lectures and you can clearly see he is very involved and passionate about the content. Great professor."
