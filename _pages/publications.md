@@ -28,7 +28,7 @@ author_profile: true
 
 **Callen, I.** & Stoddard. C. (2024). Putting the "A" in AP: The Effect of Advanced Placement State Policies on Student Participation and Performance. *Economics of Education Review, 102*. 
 
-[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/CallenStoddard2024.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1821177796367896580) [<i class="fa-solid fa-quote-left" aria-hidden="true"></i>](https://scholar.googleusercontent.com/scholar.bib?q=info:KNrNUB5YJyoJ:scholar.google.com/&output=citation&scisdr=ClH5dvqNEJrU_G-v7p4:AFWwaeYAAAAAZ_up9p6lk_13Q7wfxmbLd34YGtU&scisig=AFWwaeYAAAAAZ_up9ihSNqYmbuDOm4IFEP8y95M&scisf=4&ct=citation&cd=-1&hl=en)
+[<i class="fa-solid fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0272775724000591) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/Publications/CallenStoddard2024.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1821177796367896580) [<i class="fa-solid fa-quote-left" aria-hidden="true"></i>](https://scholar.googleusercontent.com/scholar.bib?q=info:KNrNUB5YJyoJ:scholar.google.com/&output=citation&scisdr=ClH5dvqNEJrU_G-v7p4:AFWwaeYAAAAAZ_up9p6lk_13Q7wfxmbLd34YGtU&scisig=AFWwaeYAAAAAZ_up9ihSNqYmbuDOm4IFEP8y95M&scisf=4&ct=citation&cd=-1&hl=en)
 
 *Media mentions: [Fordham Institute](https://fordhaminstitute.org/national/resources/937-universal-free-lunch-good-idea-paul-bruno)*
 
@@ -57,15 +57,15 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
 *Media mentions:* [Economic Report of the President (2025)](https://www.govinfo.gov/content/pkg/ERP-2025/pdf/ERP-2025-chapter7.pdf) 
 
 
+**Callen, I.** & Stoddard, C. (2025). Advanced Placement Access and College Enrollment: Postsecondary Effects of Advanced Placement State Policies.
+
+[<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/Publications/CallenStoddard2025.pdf)
+
 ## Works in Progress
 
  A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic
 
 *with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
-
-Advanced Placement Access and College Enrollment: Postsecondary Effects of Advanced Placement State Policies.
-
-*with Christiana Stoddard.*
 
 Explaining Variation in Academic Recovery.
 
