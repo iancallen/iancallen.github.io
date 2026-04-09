@@ -1,11 +1,13 @@
 ---
 permalink: /
 title: "About"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<img src="/images/headshot (v.9.18.24).png" alt="Ian Callen" class="headshot">
 
 Hello! I am a Ph.D. student in the School of Education and Human Development at the [University of Virginia](https://education.virginia.edu/) and an Instructor of Economics in the Department of Agricultural Economics and Economics at [Montana State University](https://www.montana.edu/econ/). Previously, I was a Research Associate at the Center for Analysis of Longitudinal Data in Education Research [(CALDER)](https://caldercenter.org/) at the American Institutes for Research. I hold a M.S. in Applied Economics from [Montana State University](https://www.montana.edu/), a B.A. in Economics, and a B.S. in Statistics, both from [Western Washington University](https://www.wwu.edu/). 
 
@@ -13,3 +15,4 @@ My [research](/publications/) focuses on the economics of education and K-12 edu
 
 Email: [iancallen@virginia.edu](mailto:iancallen@virginia.edu)
 
+[Google Scholar](https://scholar.google.com/citations?user=qlcuFncAAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0009-0008-8924-0401) | [GitHub](https://github.com/iancallen) | [Bluesky](https://bsky.app/profile/iancallen.bsky.app)

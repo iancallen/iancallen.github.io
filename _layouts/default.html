@@ -1,32 +1,30 @@
----
-layout: compress
----
-
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
+    <div class="container">
+      <header class="site-header">
+        <nav>
+          <a class="site-title" href="{{ base_path }}/">{{ site.title }}</a>
+          {% for link in site.data.navigation.main %}
+            <a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a>
+          {% endfor %}
+        </nav>
+      </header>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+      <main>
+        {{ content }}
+      </main>
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+      <footer class="site-footer">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
       </footer>
     </div>
-
-    {% include scripts.html %}
-    {% include text-expand.html %}
-
   </body>
 </html>
