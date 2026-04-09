@@ -11,7 +11,7 @@ author_profile: false
 
 ## Publications
 
-**Callen, I.**, Carbonari, M. V., DeArmond, M., Dewey, D., Dizon-Ross, E., Goldhaber, D., Isaacs, J., Kane, T. J., Kuhfeld, M., McDonald, A., McEachin, A., Morton, E., Muroga, A., & Staiger, D. O. (forthcoming). Summer School as a Learning Loss Recovery Strategy after COVID-19: Evidence from Summer 2022. *American Educational Research Journal*.  
+**Callen, I.**, Carbonari, M. V., DeArmond, M., Dewey, D., Dizon-Ross, E., Goldhaber, D., Isaacs, J., Kane, T. J., Kuhfeld, M., McDonald, A., McEachin, A., Morton, E., Muroga, A., & Staiger, D. O. (2025). Summer School as a Learning Loss Recovery Strategy after COVID-19: Evidence from Summer 2022. *American Educational Research Journal*.  
 
 [<i class="fa-solid fa-link" aria-hidden="true"></i>](https://caldercenter.org/publications/summer-school-learning-loss-recovery-strategy-after-covid-19-evidence-summer-2022) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](https://caldercenter.org/sites/default/files/CALDER%20WP%20291-0823.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/CEDR_US/status/1689282537149825024)
 
@@ -47,6 +47,8 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
 
 [<i class="fa-solid fa-link" aria-hidden="true"></i>](https://caldercenter.org/publications/pandemic-learning-loss-student-baseline-achievement-extent-and-sources-heterogeneity) [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](https://caldercenter.org/sites/default/files/CALDER%20WP%20292-0224.pdf) [<i class="fa-brands fa-x-twitter"></i>](https://x.com/IanCallen6/status/1756005148856332302)
 
+*Invited revise and resubmit at Economics of Education Review.*
+
 <details>
   <summary> Abstract </summary>
 
@@ -59,6 +61,8 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
 
 **Callen, I.** & Stoddard, C. (2025). Advanced Placement Access and College Enrollment: Postsecondary Effects of Advanced Placement State Policies.
 
+*Invited revise and resubmit at Education Finance Policy.*
+
 [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>](/files/Publications/CallenStoddard2025.pdf)
 
 ## Works in Progress
@@ -67,10 +71,7 @@ Access the data: [DTA](/files/Data/Callen & Stoddard, 2024/eer2024_CallenStoddar
 
 *with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
 
-Explaining Variation in Academic Recovery.
+Interest in Teaching: Motivations, Self-Perceptions, and the Decline in Interest.
 
-*with Grace Falken, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton.*
+*with Brendan Bartanen and John Krieg.*
 
-How Incentives Shape Teacher Effort: Lessons from a Piece-Rate Bonus Program.
-
-*with Md Twfiqur Rahman.*
