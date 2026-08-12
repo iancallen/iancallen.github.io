@@ -20,19 +20,16 @@ Hello! I am a Ph.D. student in Education Policy at the [University of Virginia](
 
 ## Recent News
 
-**2026** &mdash; Awarded a Graduate Research Fellowship from the American Institutes for Boys and Men (2026&ndash;2028).
+**Aug 2026** &mdash; [*A Broader View of Recovery*](https://caldercenter.org/publications/broader-view-recovery-exploring-non-test-student-outcomes-wake-covid-19-pandemic), our new working paper on students&rsquo; non-test outcomes during the pandemic, was released.
 {: .news-item}
 
-**2026** &mdash; Presented at the Association for Education Finance and Policy (AEFP) annual conference.
+**Jan 2026** &mdash; Awarded a Graduate Research Fellowship from the [American Institute for Boys and Men](https://aibm.org/).
 {: .news-item}
 
-**2025** &mdash; *Summer School as a Learning Loss Recovery Strategy after COVID-19* was published in the *American Educational Research Journal*.
+**Oct 2025** &mdash; [*Summer School as a Learning Loss Recovery Strategy after COVID-19*](https://journals.sagepub.com/doi/10.3102/00028312251355990) was published in the [*American Educational Research Journal*](https://journals.sagepub.com/home/aer).
 {: .news-item}
 
-**2025** &mdash; Our study of pandemic learning loss by student baseline achievement was cited in the *Economic Report of the President*.
-{: .news-item}
-
-**2025** &mdash; *Advanced Placement Access and College Enrollment* received an invited revise-and-resubmit at *Education Finance and Policy*.
+**Jan 2025** &mdash; Our study of pandemic learning loss by student baseline achievement was cited in the [*Economic Report of the President*](https://www.govinfo.gov/content/pkg/ERP-2025/pdf/ERP-2025-chapter7.pdf).
 {: .news-item}
 
 ## Contact

@@ -59,6 +59,22 @@ A book chapter reviewing what we know about the pandemic's toll on student achie
 
 ## Working Papers
 
+### A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic
+Callen, I., Dizon-Ross, E., Goldhaber, D., Kane, T. J., McEachin, A., &amp; Morton, E. &middot; CALDER Working Paper No. 344-0826 (2026)
+{: .pub-meta}
+
+We look beyond test scores at attendance, discipline, and course grades in one district across the pandemic. All of them worsened afterward, widening gaps by race and school poverty. Recovery programs helped, though: summer school improved students&rsquo; attendance the next year, and tutoring improved attendance and discipline.
+{: .pub-takeaway}
+
+[<i class="fa-solid fa-link" aria-hidden="true"></i> Paper](https://caldercenter.org/publications/broader-view-recovery-exploring-non-test-student-outcomes-wake-covid-19-pandemic) &nbsp; [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i> PDF](https://caldercenter.org/sites/default/files/2026-08/CALDER-WP-344-0826_0.pdf) &nbsp; [<i class="fa-solid fa-quote-left" aria-hidden="true"></i> Cite](/files/bib/callen2026broader.bib)
+{: .pub-links}
+
+<details markdown="1">
+  <summary>Abstract</summary>
+
+The COVID-19 pandemic sharply reduced student test scores, and ESSER-funded academic interventions largely failed to recover those losses. Yet few researchers have examined whether these interventions affected students in ways beyond test scores. We use rich longitudinal data from Guilford County Schools (GCS) to document trends before and after the pandemic in attendance, suspensions, disciplinary referrals, and course grades from 2016-17 through 2023-24. All non-test outcomes worsened in GCS after the pandemic, widening pre-existing gaps by race and school poverty level. We also estimate how participation in GCS&rsquo;s tutoring and summer school in 2021&ndash;22 and 2022&ndash;23 affect these non-test outcomes. Students who participated in recovery interventions showed improved attendance and discipline in the following year. Effects varied across interventions: summer school robustly improved attendance the following school year, while tutoring improved discipline in one year (2021&ndash;22) and attendance in the other (2022&ndash;23). These results demonstrate that academic interventions support students on dimensions beyond traditionally measured academic performance and contribute to recovering student engagement and well-being.
+</details>
+
 ### Pandemic Learning Loss by Student Baseline Achievement: Extent and Sources of Heterogeneity
 Callen, I., Goldhaber, D., Kane, T. J., McDonald, A., McEachin, A., &amp; Morton, E. &middot; CALDER Working Paper No. 292-0224 (2024) &middot; R&amp;R, *Economics of Education Review*
 {: .pub-meta}
@@ -89,13 +105,6 @@ A follow-up to our earlier AP study. Here we ask whether the same state policies
 {: .pub-links}
 
 ## Works in Progress
-
-### A Broader View of Recovery: Exploring Non-Test Student Outcomes in the Wake of the COVID-19 Pandemic
-with Elise Dizon-Ross, Dan Goldhaber, Thomas J. Kane, Andrew McEachin, and Emily Morton
-{: .pub-meta}
-
-Recovery is usually measured with test scores. Here we look at other outcomes, like attendance and engagement, to get a fuller sense of how students are really doing.
-{: .pub-takeaway}
 
 ### Interest in Teaching: Motivations, Self-Perceptions, and the Decline in Interest
 with Brendan Bartanen and John Krieg
