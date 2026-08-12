@@ -6,8 +6,21 @@
 @import "vendor/font-awesome/brands";
 
 /* ============================================
-   Console-inspired theme
+   Editorial theme — quiet, serif, newspaper-inspired
    ============================================ */
+
+:root {
+  --serif: "Newsreader", "Charter", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  --sans: "Libre Franklin", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --ink: #1a1a1a;
+  --muted: #5c5c5c;
+  --faint: #767676;
+  --rule: #e3e3e3;
+  --link: #2d5f85;        /* newsprint blue */
+  --link-hover: #17384f;
+  --accent: #2d5f85;      /* section labels / kickers */
+  --accent-soft: rgba(45, 95, 133, 0.35);
+}
 
 /* --- Reset & Base --- */
 
@@ -23,50 +36,65 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: "Fira Mono", "Lucida Console", Monaco, Consolas, "Courier New", monospace;
-  font-size: 1rem;
+  font-family: var(--serif);
+  font-size: 1.0625rem;   /* ~17px */
   line-height: 1.7;
-  color: #1a1a1a;
+  color: var(--ink);
   background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-optical-sizing: auto;
 }
 
 /* --- Layout Container --- */
 
 .container {
-  max-width: 750px;
+  max-width: 720px;
   margin: 0 auto;
   padding: 0 1.5rem;
 }
 
-/* --- Header & Navigation --- */
+/* --- Masthead & Navigation --- */
 
 .site-header {
-  padding: 2rem 0 1.5rem;
-  border-bottom: 1px solid #e0e0e0;
-  margin-bottom: 2rem;
+  padding: 2rem 0 1rem;
+  border-bottom: 1px solid var(--ink);
+  margin-bottom: 2.5rem;
 }
 
 .site-header nav {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 0.5rem 1.25rem;
+  gap: 0.4rem 1.5rem;
 }
 
 .site-header a {
-  color: #1a1a1a;
+  color: var(--ink);
   text-decoration: none;
-  font-size: 0.9rem;
-}
-
-.site-header a:hover {
-  text-decoration: underline;
 }
 
 .site-title {
+  font-family: var(--serif);
   font-weight: 700;
-  font-size: 1.1rem;
-  margin-right: 0.5rem;
+  font-size: 1.35rem;
+  letter-spacing: -0.01em;
+  margin-right: auto;   /* pushes section links to the right, newspaper masthead style */
+}
+
+/* section-style nav links */
+.site-header nav a:not(.site-title) {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--muted);
+  padding-bottom: 0.1rem;
+}
+
+.site-header nav a:not(.site-title):hover {
+  color: var(--ink);
 }
 
 /* --- Main Content --- */
@@ -76,33 +104,219 @@ main {
   padding-bottom: 2rem;
 }
 
+/* --- Homepage hero --- */
+
+.hero {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 0.25rem 0 1.75rem;
+}
+
+.hero-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.hero-name {
+  font-family: var(--serif);
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+  margin: 0 0 0.55rem;
+}
+
+.hero-role {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--muted);
+  margin: 0 0 1.1rem;
+  line-height: 1.45;
+}
+
+.hero-statement {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--ink);
+  margin: 0 0 1.15rem;
+}
+
+.hero-links {
+  font-family: var(--sans);
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.hero-links a {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.hero-links a:hover {
+  text-decoration: underline;
+}
+
+.hero-links span {
+  color: #c7c7c7;
+  margin: 0 0.35rem;
+}
+
+.hero-photo {
+  flex: 0 0 auto;
+  width: 155px;
+  border-radius: 3px;
+  margin-top: 0.35rem;
+}
+
+/* --- Recent News (homepage) --- */
+
+.news-item {
+  margin: 0 0 0.75rem;
+  line-height: 1.6;
+}
+
+.news-item strong {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: var(--faint);
+}
+
+/* --- Publication / research entries --- */
+
+.pub-meta {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--faint);
+  line-height: 1.5;
+  letter-spacing: 0.005em;
+  margin: 0.2rem 0 0.55rem;
+}
+
+.pub-meta em {
+  font-style: italic;
+}
+
+.pub-takeaway {
+  margin: 0 0 0.6rem;
+  line-height: 1.55;
+}
+
+.pub-links {
+  font-size: 0.92rem;
+  margin: 0 0 0.35rem;
+}
+
+.pub-links a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-media {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--faint);
+  line-height: 1.6;
+  margin: 0.15rem 0 0.4rem;
+}
+
+.pub-media a {
+  color: var(--faint);
+  text-decoration-color: rgba(118, 118, 118, 0.4);
+}
+
+.see-all {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  font-weight: 600;
+  margin: 1.75rem 0 0;
+}
+
+.see-all a {
+  text-decoration: none;
+}
+
+.see-all a:hover {
+  text-decoration: underline;
+}
+
 /* --- Typography --- */
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
-  font-weight: 700;
-  line-height: 1.3;
-  color: #1a1a1a;
-  margin-top: 1.8rem;
-  margin-bottom: 0.8rem;
+  font-family: var(--serif);
+  line-height: 1.25;
+  color: var(--ink);
 }
 
-h1, .page__title { font-size: 1.6rem; }
-h2 { font-size: 1.3rem; }
-h3 { font-size: 1.1rem; }
-h4 { font-size: 1rem; }
+h1, .page__title {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin: 0.5rem 0 1rem;
+}
+
+/* h2 = editorial section label (kicker): small, letterspaced, sans, accent color, hairline above */
+h2 {
+  font-family: var(--sans);
+  font-size: 0.76rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  color: var(--accent);
+  border-top: 1px solid var(--rule);
+  padding-top: 1.1rem;
+  margin: 3rem 0 1.4rem;
+}
+
+/* first section directly under a page title shouldn't carry a redundant rule + huge gap */
+.page__title + h2 {
+  margin-top: 1.6rem;
+  border-top: none;
+  padding-top: 0;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 2.6rem 0 0.2rem;   /* large gap between entries, tight to its meta line */
+}
+
+/* first entry directly under a section label shouldn't double the gap */
+h2 + h3 {
+  margin-top: 1.2rem;
+}
+
+h4 {
+  font-size: 1.02rem;
+  font-weight: 700;
+  margin: 1.5rem 0 0.5rem;
+}
 
 p {
   margin: 0 0 1.2rem;
 }
 
 a {
-  color: #1a1a1a;
+  color: var(--link);
   text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--accent-soft);
 }
 
 a:hover {
-  color: #555;
+  color: var(--link-hover);
+  text-decoration-color: currentColor;
 }
 
 strong {
@@ -114,34 +328,47 @@ em {
 }
 
 blockquote {
-  margin: 1.5rem 0;
-  padding-left: 1rem;
-  border-left: 3px solid #ccc;
-  color: #555;
+  margin: 1.6rem 0;
+  padding-left: 1.25rem;
+  border-left: 2px solid #d6d6d6;
+  color: #2b2b2b;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+.eval-source {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--faint);
+  margin-top: 1.35rem;
 }
 
 hr {
   border: none;
-  border-top: 1px solid #e0e0e0;
-  margin: 2rem 0;
+  border-top: 1px solid var(--rule);
+  margin: 2.5rem 0;
 }
 
 /* --- Lists --- */
 
 ul, ol {
   margin: 0 0 1.2rem;
-  padding-left: 1.5rem;
+  padding-left: 1.4rem;
 }
 
 li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.4rem;
 }
 
 /* --- Code --- */
 
 code {
-  font-family: inherit;
-  font-size: 0.9em;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.85em;
   background-color: #f5f5f5;
   padding: 0.15em 0.4em;
   border-radius: 2px;
@@ -169,25 +396,42 @@ details {
 
 summary {
   cursor: pointer;
-  font-weight: 400;
-  color: #1a1a1a;
-  text-decoration: underline;
-  font-size: 0.9rem;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--faint);
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::before {
+  content: "\203A\00a0";   /* › */
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
 }
 
 summary:hover {
-  color: #555;
+  color: var(--ink);
 }
 
 details[open] summary {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
 }
 
 details p {
   margin-left: 0;
-  font-size: 0.9rem;
-  color: #444;
-  line-height: 1.6;
+  font-size: 0.95rem;
+  color: var(--muted);
+  line-height: 1.65;
 }
 
 /* --- Tables --- */
@@ -196,13 +440,13 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.2rem 0;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 th, td {
   padding: 0.5rem;
   text-align: left;
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid var(--rule);
 }
 
 th {
@@ -218,7 +462,7 @@ img {
 
 .headshot {
   width: 180px;
-  border-radius: 4px;
+  border-radius: 3px;
   margin-bottom: 1rem;
 }
 
@@ -231,14 +475,16 @@ iframe {
 /* --- Footer --- */
 
 .site-footer {
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid var(--rule);
   padding: 1.5rem 0;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 .site-footer p {
-  font-size: 0.8rem;
-  color: #888;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+  color: var(--faint);
   margin: 0;
 }
 
@@ -280,15 +526,42 @@ iframe {
 /* --- Responsive --- */
 
 @media screen and (max-width: 600px) {
-  html {
-    font-size: 15px;
+  body {
+    font-size: 1rem;
   }
 
   .site-header {
     padding: 1.5rem 0 1rem;
   }
 
+  h1, .page__title {
+    font-size: 1.7rem;
+  }
+
   .headshot {
     width: 140px;
+  }
+
+  .hero {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    gap: 1.1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-name {
+    font-size: 2.1rem;
+  }
+
+  .hero-statement {
+    font-size: 1.1rem;
+  }
+
+  .hero-photo {
+    width: 120px;
+  }
+
+  h3 {
+    margin-top: 2.2rem;
   }
 }
