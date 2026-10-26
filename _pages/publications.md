@@ -9,6 +9,25 @@ You can also find my work on [Google Scholar]({{ site.author.googlescholar }}). 
 
 ## Publications
 
+### Pandemic Learning Loss by Student Baseline Achievement: Extent and Sources of Heterogeneity
+Callen, I., Goldhaber, D., Kane, T. J., McDonald, A., McEachin, A., &amp; Morton, E. &middot; *Economics of Education Review*, forthcoming
+{: .pub-meta}
+
+We asked whether the pandemic widened the gap between initially higher- and lower-achieving students, and where any gap came from. Lower-achieving students lost more ground (about 0.10 SD more in math and 0.11 SD in reading), and most of that widening traces to which school a student attended, not to differences between students within the same school.
+{: .pub-takeaway}
+
+[<i class="fa-solid fa-link" aria-hidden="true"></i> Paper](https://caldercenter.org/publications/pandemic-learning-loss-student-baseline-achievement-extent-and-sources-heterogeneity) &nbsp; [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i> PDF](https://caldercenter.org/sites/default/files/2024-11/CALDER%20WP%20292-0224.pdf) &nbsp; [<i class="fa-brands fa-x-twitter" aria-hidden="true"></i> Thread](https://x.com/IanCallen6/status/1756005148856332302) &nbsp; [<i class="fa-solid fa-quote-left" aria-hidden="true"></i> Cite](/files/bib/callen2024pandemic.bib)
+{: .pub-links}
+
+Media: [Economic Report of the President (2025)](https://www.govinfo.gov/content/pkg/ERP-2025/pdf/ERP-2025-chapter7.pdf)
+{: .pub-media}
+
+<details markdown="1">
+  <summary>Abstract</summary>
+
+It is now well established that the COVID-19 pandemic had a devastating and unequal impact on student achievement. Test score declines were disproportionately large for historically marginalized students, exacerbating preexisting achievement gaps and threatening educational and economic inequality. In this paper, we use longitudinal student-level NWEA MAP Growth test data to estimate differences in test score declines for students at different points on the prepandemic test distribution. We also test the extent to which students' schools and districts accounted for these differences in declines. We find significant differences in learning loss by baseline achievement, with lower-achieving students' scores dropping 0.100 SD more in math and 0.113 SD more in reading than higher-achieving students' scores. We additionally show that the school a student attended accounts for about three-quarters of this widening gap in math achievement and about one-third in reading. The findings suggest school and district-level policies may have mattered more for learning loss than individual students' experiences within schools and districts.
+</details>
+
 ### Summer School as a Learning Loss Recovery Strategy after COVID-19: Evidence from Summer 2022
 Callen, I., Carbonari, M. V., DeArmond, M., Dewey, D., Dizon-Ross, E., Goldhaber, D., Isaacs, J., Kane, T. J., Kuhfeld, M., McDonald, A., McEachin, A., Morton, E., Muroga, A., &amp; Staiger, D. O. &middot; *American Educational Research Journal* (2025)
 {: .pub-meta}
@@ -56,25 +75,6 @@ A book chapter reviewing what we know about the pandemic's toll on student achie
 
 [<i class="fa-solid fa-quote-left" aria-hidden="true"></i> Cite](/files/bib/callen2025evidence.bib)
 {: .pub-links}
-
-### Pandemic Learning Loss by Student Baseline Achievement: Extent and Sources of Heterogeneity
-Callen, I., Goldhaber, D., Kane, T. J., McDonald, A., McEachin, A., &amp; Morton, E. &middot; *Economics of Education Review*, forthcoming
-{: .pub-meta}
-
-We asked whether the pandemic widened the gap between initially higher- and lower-achieving students, and where any gap came from. Lower-achieving students lost more ground (about 0.10 SD more in math and 0.11 SD in reading), and most of that widening traces to which school a student attended, not to differences between students within the same school.
-{: .pub-takeaway}
-
-[<i class="fa-solid fa-link" aria-hidden="true"></i> Paper](https://caldercenter.org/publications/pandemic-learning-loss-student-baseline-achievement-extent-and-sources-heterogeneity) &nbsp; [<i class="fa-solid fa-file-pdf" aria-hidden="true"></i> PDF](https://caldercenter.org/sites/default/files/2024-11/CALDER%20WP%20292-0224.pdf) &nbsp; [<i class="fa-brands fa-x-twitter" aria-hidden="true"></i> Thread](https://x.com/IanCallen6/status/1756005148856332302) &nbsp; [<i class="fa-solid fa-quote-left" aria-hidden="true"></i> Cite](/files/bib/callen2024pandemic.bib)
-{: .pub-links}
-
-Media: [Economic Report of the President (2025)](https://www.govinfo.gov/content/pkg/ERP-2025/pdf/ERP-2025-chapter7.pdf)
-{: .pub-media}
-
-<details markdown="1">
-  <summary>Abstract</summary>
-
-It is now well established that the COVID-19 pandemic had a devastating and unequal impact on student achievement. Test score declines were disproportionately large for historically marginalized students, exacerbating preexisting achievement gaps and threatening educational and economic inequality. In this paper, we use longitudinal student-level NWEA MAP Growth test data to estimate differences in test score declines for students at different points on the prepandemic test distribution. We also test the extent to which students' schools and districts accounted for these differences in declines. We find significant differences in learning loss by baseline achievement, with lower-achieving students' scores dropping 0.100 SD more in math and 0.113 SD more in reading than higher-achieving students' scores. We additionally show that the school a student attended accounts for about three-quarters of this widening gap in math achievement and about one-third in reading. The findings suggest school and district-level policies may have mattered more for learning loss than individual students' experiences within schools and districts.
-</details>
 
 ## Working Papers
 
