@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2026-10-27
 ---
 
 {% include base_path %}
@@ -34,6 +34,6 @@ Third-party advertisers may also place and read cookies on your browser and/or u
 
 If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-#### Google Analytics
+#### GoatCounter
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+I use [GoatCounter](https://www.goatcounter.com) to see which pages are visited and how visitors find this site. It does not use cookies, does not track you across websites, and does not store IP addresses or other personally identifiable information. You can read the [GoatCounter privacy policy](https://www.goatcounter.com/help/privacy).
